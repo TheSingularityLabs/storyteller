@@ -1,0 +1,293 @@
+# Storyteller: The Problem We Solve - 12 SCENES
+Style: Dynamic explainer visual format - minimalist design, human-centered storytelling
+Total Duration: 72 seconds (6 seconds per scene)
+Format: 9:16 VERTICAL
+Audience: Developers and content creators facing video automation challenges
+
+---
+
+## SCENE 0: Opening Title (6 seconds) - NO NARRATION
+
+Layout Design:
+- Background: Problem-focused gradient, muted tones
+- Text: "The Video Automation Problem" - Large, bold, top-left corner (safe zone)
+- Subtitle: "What Storyteller solves" - Left-aligned below title
+- Visual Elements:
+  - Broken workflow icon (center, prominent)
+  - Question mark with gears (bottom-right, asymmetric)
+  - Scattered puzzle pieces (top-right corner, subtle)
+- Aesthetic: Problem-focused, challenging, needs solution
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Title and subtitle fade in from left. Broken workflow icon appears in center. Question mark pulses with gears bottom-right. Puzzle pieces scatter top-right. Smooth, problem-focused animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 1: The Core Problem (6 seconds)
+
+Narration: "Every video project means writing custom parsers, manually selecting layouts, and building workflow logic from scratch. Hours of repetitive coding for each new script format."
+
+Layout Design:
+- Background: Chaotic, cluttered feel, muted colors
+- Text: "Repetitive Coding" - Large, left-aligned, top third (safe zone)
+- Visual Elements:
+  - Multiple code files overlapping (left side, chaotic stack)
+  - 2D flat silhouette developer figure showing exhaustion (right side, bottom)
+  - Clock showing wasted hours (center, prominent)
+  - Red X marks on failed attempts (scattered)
+- Aesthetic: Overwhelming, repetitive, time-consuming, frustrating
+- Layout Pattern: Asymmetric left-heavy with scattered failures
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Code files stack chaotically on left. Developer silhouette shows exhaustion on right. Clock ticks showing wasted hours in center. X marks appear scattered. Elements animate with overwhelming, repetitive motion. Smooth, sequential animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 2: The Fragmentation (6 seconds)
+
+Narration: "Different script formats need different parsers. Layout selection is manual and error-prone. Workflow orchestration requires custom error handling every time."
+
+Layout Design:
+- Background: Fragmented, disconnected feel, split sections
+- Text: "Fragmented Workflow" - Center-top (safe zone), bold, disconnected
+- Visual Elements:
+  - Three separate workflow sections (left, center, right, disconnected)
+  - Broken connection lines with X marks (between sections, diagonal)
+  - 2D flat silhouette figure with hands up in confusion (bottom-center)
+  - Error indicators flashing (scattered, small)
+- Aesthetic: Fragmented, disconnected, error-prone, complex
+- Layout Pattern: Vertical split showing disconnected components
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Workflow sections appear disconnected (left, center, right). Connection lines break with X marks. Silhouette figure shows confusion at bottom. Error indicators flash. Elements animate with fragmented, disconnected motion. Smooth, sequential animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 3: The Solution (6 seconds)
+
+Narration: "Storyteller provides a unified framework. One parser handles all script formats. Intelligent layout selection prevents repetition. Built-in orchestration handles errors automatically."
+
+Layout Design:
+- Background: Solution-focused, unified gradient, blue-to-green
+- Text: "Unified Framework" - Center-top (safe zone), large, bold, unified
+- Visual Elements:
+  - Central framework icon (center, hero element, modular design)
+  - Unified workflow flowing (around center, circular, connected)
+  - Checkmark icons appearing (top-right corner)
+  - Integration points (bottom, full-width banner)
+- Aesthetic: Unified, simple, powerful, connected, solution-focused
+- Layout Pattern: Hero-centered with radial expansion
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Framework icon materializes in center. Unified workflow radiates outward in circular pattern. Checkmarks animate top-right. Integration points appear at bottom. Elements animate with unified, connected motion. Smooth, radial animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 4: Core Features (6 seconds)
+
+Narration: "Smart script parsing extracts scenes automatically. One hundred unique layout patterns ensure visual variety. Workflow orchestration handles batching, errors, and progress tracking."
+
+Layout Design:
+- Background: Feature-focused, clean white with accent
+- Text: "Core Features" - Top-left corner (safe zone), bold
+- Visual Elements:
+  - Three feature icons in horizontal flow (center, organized: parser, layouts, workflow)
+  - Feature labels below icons (center, integrated)
+  - Number badge "100" for layouts (top-right corner)
+  - Checkmark progression (left side, vertical)
+- Aesthetic: Feature-rich, comprehensive, organized, powerful
+- Layout Pattern: Horizontal flow with corner accents
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Feature icons appear sequentially in center (parser, layouts, workflow). Labels appear below icons. Number badge pulses top-right. Checkmarks progress vertically on left. Flow moves left to right. Smooth, organized animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 5: Layout Intelligence (6 seconds)
+
+Narration: "One hundred curated layout patterns prevent visual repetition. Intelligent selection suggests optimal patterns based on scene type. Automatic tracking ensures variety across your entire video."
+
+Layout Design:
+- Background: Intelligence-focused gradient, purple-to-blue
+- Text: "100 Layout Patterns" - Center-top (safe zone), intelligent font
+- Visual Elements:
+  - Pattern grid visualization (center, 4x4 grid showing variety)
+  - Intelligence indicator with brain icon (top-left corner)
+  - Selection algorithm visualization (right side, vertical flow)
+  - Variety badge (bottom-left corner)
+- Aesthetic: Intelligent, sophisticated, variety-focused, automated
+- Layout Pattern: Four-quadrant grid with corner intelligence
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Pattern grid materializes in center showing variety. Brain icon pulses top-left. Selection algorithm animates vertically on right. Variety badge appears bottom-left. Elements animate with intelligent, sophisticated motion. Smooth, variety-focused animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 6: Workflow Orchestration (6 seconds)
+
+Narration: "Built-in batch processing handles hundreds of scenes. Automatic error handling with skip logic saves time. Progress tracking and statistics keep you informed throughout."
+
+Layout Design:
+- Background: Workflow-focused, professional gradient
+- Text: "Smart Orchestration" - Top-left corner (safe zone), bold
+- Visual Elements:
+  - Workflow diagram (center, showing batch processing flow)
+  - Error handling paths (left side, vertical)
+  - Progress indicators (right side, vertical)
+  - Statistics dashboard (bottom, full-width banner)
+- Aesthetic: Professional, automated, reliable, efficient
+- Layout Pattern: Two-column with left errors, right progress, center workflow
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Workflow diagram animates in center. Error handling paths appear on left. Progress indicators animate upward on right. Statistics dashboard appears at bottom. Elements animate with professional, automated motion. Smooth, efficient animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 7: Provider Agnostic (6 seconds)
+
+Narration: "Use any image generation API you prefer. Integrate any text-to-speech service. Connect any video assembly tool. The framework adapts to your stack, not the other way around."
+
+Layout Design:
+- Background: Flexible, integration-focused, clean white
+- Text: "Your APIs, Your Choice" - Center-top (safe zone), bold, flexible
+- Visual Elements:
+  - Multiple API icons in horizontal flow (center, showing variety)
+  - Integration arrows (between icons, connecting)
+  - Framework icon adapting (bottom-center, hero)
+  - Flexibility indicator (top-right corner)
+- Aesthetic: Flexible, adaptable, integration-friendly, customizable
+- Layout Pattern: Horizontal flow with connecting arrows
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. API icons appear in horizontal flow in center. Integration arrows connect icons. Framework icon adapts at bottom-center. Flexibility indicator pulses top-right. Flow moves left to right with connections. Smooth, flexible animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 8: Production Ready (6 seconds)
+
+Narration: "Battle-tested error handling prevents crashes. Skip logic avoids regenerating existing outputs. Progress tracking and statistics provide complete visibility into your pipeline."
+
+Layout Design:
+- Background: Production-focused, reliable gradient, dark blue
+- Text: "Production Ready" - Large, center-top (safe zone), bold, reliable
+- Visual Elements:
+  - Reliability badge with shield (top-left corner)
+  - Production pipeline visualization (center, hero element)
+  - Statistics dashboard (right side, vertical)
+  - Quality indicators (bottom, full-width banner)
+- Aesthetic: Reliable, production-grade, battle-tested, professional
+- Layout Pattern: Hero-centered with corner reliability
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Reliability badge appears top-left. Production pipeline visualizes in center. Statistics dashboard animates on right. Quality indicators appear at bottom. Elements animate with reliable, production-grade motion. Smooth, professional animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 9: Real Impact (6 seconds)
+
+Narration: "Developers process hundreds of scenes automatically. Content creators build video pipelines in hours, not weeks. Teams scale video production without scaling complexity."
+
+Layout Design:
+- Background: Impact-focused, success gradient, green-to-blue
+- Text: "Real Impact" - Large, left-aligned, top third (safe zone), bold
+- Visual Elements:
+  - Multiple scene thumbnails in grid (center, 3x3 grid showing scale)
+  - Time savings indicator (left side, vertical, showing hours saved)
+  - Scale visualization (right side, upward growth)
+  - Impact metrics (bottom, full-width banner)
+- Aesthetic: Impactful, scalable, time-saving, proven
+- Layout Pattern: Two-column with left metrics, right scale, center scenes
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Scene thumbnails appear in grid in center. Time savings indicator rises on left. Scale visualization grows upward on right. Impact metrics animate at bottom. Elements animate with impactful, scalable motion. Smooth, proven animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 10: The Potential (6 seconds)
+
+Narration: "This is just the beginning. As the framework evolves, new patterns emerge, integrations expand, and capabilities grow. Your video automation journey starts with Storyteller."
+
+Layout Design:
+- Background: Potential-focused gradient, horizon effect
+- Text: "Unlimited Potential" - Center-top (safe zone), forward-looking, bold
+- Visual Elements:
+  - Evolution indicator with arrow (top-left corner)
+  - Forward arrow (bottom-center, pointing right, large)
+  - Growth visualization (center, radial expansion)
+  - Future capabilities timeline (right side, vertical)
+- Aesthetic: Progressive, evolving, forward-looking, unlimited
+- Layout Pattern: Timeline journey with radial center
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Evolution indicator pulses top-left. Forward arrow moves right from bottom-center. Growth visualization expands radially in center. Future timeline progresses vertically on right. Elements animate with forward momentum. Smooth, progressive animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 11: Closing Title (6 seconds) - NO NARRATION
+
+Layout Design:
+- Background: Solution gradient matching opening, unified
+- Text: "Solve It with Storyteller" - Large, left-aligned, top-left corner (safe zone), bold
+- Subtitle: "Build your video pipeline" - Left-aligned below title
+- Visual Elements:
+  - Framework icon (bottom-right, asymmetric)
+  - Call-to-action button style element (bottom, full-width banner)
+  - Subtle integration pattern (background, very subtle)
+- Aesthetic: Solution-oriented, action-focused, unified, professional
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Title and subtitle fade in from left. Framework icon appears bottom-right. Button element pulses gently at bottom. Integration pattern pulses subtly in background. Smooth, solution-focused fade-in animation throughout 6 seconds. Auto-switch to end after 6 seconds."
+
+---
+
+## TECHNICAL SPECIFICATIONS:
+- Aspect Ratio: 9:16 (1080x1920) - VERTICAL FORMAT
+- Color Palette: Problem-to-solution gradients, professional blues and greens, unified colors
+- Typography: Modern sans-serif, bold headlines, readable body text, left-aligned in safe zones
+- Animation Style: Smooth transitions from problem to solution, sequential reveals, professional pacing
+- Total Duration: 72 seconds (12 scenes × 6 seconds each)
+- Narration: 60 seconds (Scenes 1-10 only)
+
+---
+
+## NARRATION SCRIPT:
+(Note: Scenes 0 and 11 have NO narration)
+
+Scene 1: "Every video project means writing custom parsers, manually selecting layouts, and building workflow logic from scratch. Hours of repetitive coding for each new script format."
+
+Scene 2: "Different script formats need different parsers. Layout selection is manual and error-prone. Workflow orchestration requires custom error handling every time."
+
+Scene 3: "Storyteller provides a unified framework. One parser handles all script formats. Intelligent layout selection prevents repetition. Built-in orchestration handles errors automatically."
+
+Scene 4: "Smart script parsing extracts scenes automatically. One hundred unique layout patterns ensure visual variety. Workflow orchestration handles batching, errors, and progress tracking."
+
+Scene 5: "One hundred curated layout patterns prevent visual repetition. Intelligent selection suggests optimal patterns based on scene type. Automatic tracking ensures variety across your entire video."
+
+Scene 6: "Built-in batch processing handles hundreds of scenes. Automatic error handling with skip logic saves time. Progress tracking and statistics keep you informed throughout."
+
+Scene 7: "Use any image generation API you prefer. Integrate any text-to-speech service. Connect any video assembly tool. The framework adapts to your stack, not the other way around."
+
+Scene 8: "Battle-tested error handling prevents crashes. Skip logic avoids regenerating existing outputs. Progress tracking and statistics provide complete visibility into your pipeline."
+
+Scene 9: "Developers process hundreds of scenes automatically. Content creators build video pipelines in hours, not weeks. Teams scale video production without scaling complexity."
+
+Scene 10: "This is just the beginning. As the framework evolves, new patterns emerge, integrations expand, and capabilities grow. Your video automation journey starts with Storyteller."
+
+---
+
+## KEY PROBLEMS STORYTELLER SOLVES:
+- Eliminates repetitive coding for script parsing
+- Prevents manual layout selection errors
+- Provides built-in workflow orchestration
+- Ensures visual variety with 100 patterns
+- Handles errors and progress tracking automatically
+- Adapts to any API stack
+
+---
+
+Created: 2025-01-XX
+Style Reference: Dynamic explainer visual format
+Total Duration: 72 seconds (12 scenes × 6 seconds each)
+Narration: 60 seconds (Scenes 1-10), Opening & Closing silent (Scenes 0 & 11)
+Format: 9:16 VERTICAL - Full canvas coverage
+Audience: Developers and content creators facing video automation challenges

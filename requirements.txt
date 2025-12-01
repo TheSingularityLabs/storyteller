@@ -1,0 +1,17 @@
+# Core dependencies for Storyteller open-source framework
+# No API clients included - add your own based on your integrations
+
+# Path handling (Python < 3.4 compatibility)
+pathlib2>=2.3.7; python_version < '3.4'
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Note: For API integrations, you may want to add:
+# - fal-client (for fal.ai image generation)
+# - elevenlabs (for ElevenLabs audio generation)
+# - ffmpeg-python (for video assembly)
+# - python-dotenv (for environment variable management)
+# - requests (for HTTP API calls)
+

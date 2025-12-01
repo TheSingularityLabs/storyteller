@@ -1,0 +1,297 @@
+# Storyteller: Who It's For - 12 SCENES
+Style: Dynamic explainer visual format - minimalist design, human-centered storytelling
+Total Duration: 72 seconds (6 seconds per scene)
+Format: 9:16 VERTICAL
+Audience: Developers, content creators, and teams building video automation
+
+---
+
+## SCENE 0: Opening Title (6 seconds) - NO NARRATION
+
+Layout Design:
+- Background: Audience-focused gradient, warm and inclusive
+- Text: "Who Is Storyteller For?" - Large, bold, top-left corner (safe zone)
+- Subtitle: "Builders of video automation" - Left-aligned below title
+- Visual Elements:
+  - Multiple 2D flat silhouette figures representing different users (center, diverse group)
+  - Framework icon connecting them (bottom-center, hero)
+  - Community indicator (top-right corner)
+- Aesthetic: Inclusive, community-focused, diverse, builder-oriented
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Title and subtitle fade in from left. Diverse user silhouettes appear in center. Framework icon connects them at bottom-center. Community indicator pulses top-right. Smooth, inclusive animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 1: Content Creators (6 seconds)
+
+Narration: "You create explainer videos regularly. You're tired of manually parsing scripts and managing layouts. You need automation that works with your existing tools."
+
+Layout Design:
+- Background: Creator-focused, creative gradient
+- Text: "Content Creators" - Large, left-aligned, top third (safe zone)
+- Visual Elements:
+  - 2D flat silhouette creator at computer (left side, bottom)
+  - Video production icons (center, organized)
+  - Automation tools connecting (right side, vertical)
+  - Time savings indicator (top-right corner)
+- Aesthetic: Creative, productive, time-saving, tool-integrated
+- Layout Pattern: Two-column with left creator, right tools
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Creator silhouette appears on left. Video icons materialize in center. Automation tools connect on right. Time savings indicator pulses top-right. Elements animate with creative, productive motion. Smooth, sequential animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 2: Developers Building Tools (6 seconds)
+
+Narration: "You're building video automation platforms or SaaS products. You need a framework that handles parsing, layouts, and workflows so you can focus on your core features."
+
+Layout Design:
+- Background: Developer-focused, tech gradient
+- Text: "Platform Builders" - Center-top (safe zone), bold, technical
+- Visual Elements:
+  - 2D flat silhouette developer coding (left side, bottom)
+  - Platform architecture diagram (center, hero element)
+  - Framework integration points (right side, vertical)
+  - Code efficiency indicator (top-left corner)
+- Aesthetic: Technical, efficient, platform-focused, developer-friendly
+- Layout Pattern: Hero-centered with corner efficiency
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Developer silhouette codes on left. Platform architecture visualizes in center. Integration points appear on right. Efficiency indicator pulses top-left. Elements animate with technical, efficient motion. Smooth, platform-focused animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 3: Marketing Teams (6 seconds)
+
+Narration: "Your team produces video content at scale. You need consistent quality, visual variety, and reliable workflows. Storyteller ensures every video meets your standards."
+
+Layout Design:
+- Background: Team-focused, collaborative gradient
+- Text: "Marketing Teams" - Top-left corner (safe zone), bold
+- Visual Elements:
+  - Multiple team member silhouettes (bottom, horizontal row)
+  - Quality standards badge (center, hero)
+  - Consistency indicators (left side, vertical)
+  - Scale visualization (right side, upward growth)
+- Aesthetic: Collaborative, quality-focused, scalable, team-oriented
+- Layout Pattern: Hero-centered with bottom team, side metrics
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Team silhouettes appear in row at bottom. Quality badge materializes in center. Consistency indicators animate on left. Scale visualization grows on right. Elements animate with collaborative, quality-focused motion. Smooth, team-oriented animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 4: Agencies & Studios (6 seconds)
+
+Narration: "You handle multiple client projects simultaneously. Each client has different requirements, but you need consistent processes. Storyteller adapts to each project while maintaining your workflow standards."
+
+Layout Design:
+- Background: Agency-focused, professional gradient
+- Text: "Agencies & Studios" - Center-top (safe zone), professional font
+- Visual Elements:
+  - Multiple client project icons (center, organized grid)
+  - Workflow standardization (left side, vertical)
+  - Adaptation flexibility (right side, vertical)
+  - Professional quality badge (top-right corner)
+- Aesthetic: Professional, adaptable, multi-client, standardized
+- Layout Pattern: Four-quadrant grid with corner quality
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Client project icons appear in grid in center. Workflow standardization animates on left. Adaptation flexibility flows on right. Quality badge appears top-right. Elements animate with professional, adaptable motion. Smooth, multi-client animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 5: Solo Entrepreneurs (6 seconds)
+
+Narration: "You're building your business and creating content yourself. You don't have a team, but you need professional results. Storyteller gives you enterprise-grade automation without the enterprise complexity."
+
+Layout Design:
+- Background: Entrepreneur-focused, empowering gradient
+- Text: "Solo Builders" - Top-left corner (safe zone), empowering font
+- Visual Elements:
+  - 2D flat silhouette entrepreneur (center, hero, confident pose)
+  - Enterprise tools accessible (around silhouette, circular)
+  - Simplicity indicator (top-right corner)
+  - Growth potential (bottom, full-width banner)
+- Aesthetic: Empowering, accessible, simple, growth-focused
+- Layout Pattern: Hero-centered with circular tools
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Entrepreneur silhouette appears confidently in center. Enterprise tools orbit around silhouette. Simplicity indicator pulses top-right. Growth potential animates at bottom. Elements animate with empowering, accessible motion. Smooth, growth-focused animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 6: Tech Startups (6 seconds)
+
+Narration: "You're building a video feature into your product. You need to move fast, but you can't afford technical debt. Storyteller provides production-ready patterns from day one."
+
+Layout Design:
+- Background: Startup-focused, fast-paced gradient
+- Text: "Tech Startups" - Center-top (safe zone), bold, fast-moving
+- Visual Elements:
+  - Speed indicator with rocket (top-left corner)
+  - Production-ready badge (center, hero)
+  - Technical debt prevention (right side, vertical)
+  - Growth trajectory (bottom, full-width banner)
+- Aesthetic: Fast-moving, production-ready, debt-free, scalable
+- Layout Pattern: Hero-centered with corner speed
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Speed indicator with rocket pulses top-left. Production-ready badge materializes in center. Technical debt prevention visualizes on right. Growth trajectory animates at bottom. Elements animate with fast-moving, production-ready motion. Smooth, scalable animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 7: Educational Content (6 seconds)
+
+Narration: "You create educational videos or courses. You need to produce content consistently while maintaining quality. Storyteller helps you scale production without sacrificing educational value."
+
+Layout Design:
+- Background: Education-focused, learning gradient
+- Text: "Educators & Course Creators" - Top-left corner (safe zone), educational font
+- Visual Elements:
+  - 2D flat silhouette educator (left side, teaching pose)
+  - Educational content icons (center, organized)
+  - Quality maintenance indicator (right side, vertical)
+  - Consistency badge (top-right corner)
+- Aesthetic: Educational, quality-focused, consistent, scalable
+- Layout Pattern: Two-column with left educator, right quality
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Educator silhouette appears on left. Content icons materialize in center. Quality indicator animates on right. Consistency badge pulses top-right. Elements animate with educational, quality-focused motion. Smooth, consistent animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 8: Open Source Contributors (6 seconds)
+
+Narration: "You contribute to open-source projects or build tools for the community. You want to share your work and help others. Storyteller is open-source, so you can extend it and contribute back."
+
+Layout Design:
+- Background: Community-focused, open gradient
+- Text: "Open Source Builders" - Center-top (safe zone), community font
+- Visual Elements:
+  - GitHub icon (top-left corner)
+  - Open source badge (center, hero)
+  - Contribution arrows (around badge, circular)
+  - Community growth (bottom, full-width banner)
+- Aesthetic: Open, collaborative, community-driven, contributable
+- Layout Pattern: Hero-centered with circular contributions
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. GitHub icon appears top-left. Open source badge materializes in center. Contribution arrows orbit around badge. Community growth animates at bottom. Elements animate with open, collaborative motion. Smooth, community-driven animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 9: Anyone Scaling Video (6 seconds)
+
+Narration: "Whether you're processing ten videos or ten thousand, Storyteller scales with you. The same framework that works for one project handles enterprise-level production."
+
+Layout Design:
+- Background: Scale-focused, growth gradient
+- Text: "Scaling Video Production" - Large, left-aligned, top third (safe zone), bold
+- Visual Elements:
+  - Scale visualization (center, showing growth from small to large)
+  - Single project icon (left side, bottom)
+  - Enterprise scale icon (right side, top)
+  - Framework connecting them (center, hero element)
+- Aesthetic: Scalable, growth-focused, adaptable, enterprise-ready
+- Layout Pattern: Timeline journey showing scale progression
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Scale visualization animates in center showing growth. Single project icon appears bottom-left. Enterprise scale icon appears top-right. Framework connects them in center. Elements animate with scalable, growth-focused motion. Smooth, adaptable animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 10: The Community (6 seconds)
+
+Narration: "Join developers and creators building the future of video automation. Share patterns, improve parsers, and extend the framework. Together, we're making professional video production accessible to everyone."
+
+Layout Design:
+- Background: Community-focused, warm gradient, inclusive
+- Text: "Join the Community" - Center-top (safe zone), bold, welcoming
+- Visual Elements:
+  - Diverse user silhouettes (bottom, horizontal row, varied)
+  - Community badge (center, hero)
+  - Contribution indicators (left side, vertical)
+  - Growth visualization (right side, upward)
+- Aesthetic: Welcoming, diverse, collaborative, growing
+- Layout Pattern: Hero-centered with bottom community, side growth
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Diverse user silhouettes appear in row at bottom. Community badge materializes in center. Contribution indicators animate on left. Growth visualization rises on right. Elements animate with welcoming, collaborative motion. Smooth, community-focused animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 11: Closing Title (6 seconds) - NO NARRATION
+
+Layout Design:
+- Background: Community gradient matching opening, inclusive
+- Text: "Built for Builders" - Large, left-aligned, top-left corner (safe zone), bold
+- Subtitle: "Start building today" - Left-aligned below title
+- Visual Elements:
+  - Framework icon (bottom-right, asymmetric)
+  - Call-to-action button style element (bottom, full-width banner)
+  - Community pattern (background, very subtle)
+- Aesthetic: Builder-focused, action-oriented, inclusive, community-driven
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Title and subtitle fade in from left. Framework icon appears bottom-right. Button element pulses gently at bottom. Community pattern pulses subtly in background. Smooth, builder-focused fade-in animation throughout 6 seconds. Auto-switch to end after 6 seconds."
+
+---
+
+## TECHNICAL SPECIFICATIONS:
+- Aspect Ratio: 9:16 (1080x1920) - VERTICAL FORMAT
+- Color Palette: Inclusive gradients, warm community colors, diverse and welcoming
+- Typography: Modern sans-serif, bold headlines, readable body text, left-aligned in safe zones
+- Animation Style: Inclusive motion, community-focused transitions, welcoming pacing
+- Total Duration: 72 seconds (12 scenes × 6 seconds each)
+- Narration: 60 seconds (Scenes 1-10 only)
+
+---
+
+## NARRATION SCRIPT:
+(Note: Scenes 0 and 11 have NO narration)
+
+Scene 1: "You create explainer videos regularly. You're tired of manually parsing scripts and managing layouts. You need automation that works with your existing tools."
+
+Scene 2: "You're building video automation platforms or SaaS products. You need a framework that handles parsing, layouts, and workflows so you can focus on your core features."
+
+Scene 3: "Your team produces video content at scale. You need consistent quality, visual variety, and reliable workflows. Storyteller ensures every video meets your standards."
+
+Scene 4: "You handle multiple client projects simultaneously. Each client has different requirements, but you need consistent processes. Storyteller adapts to each project while maintaining your workflow standards."
+
+Scene 5: "You're building your business and creating content yourself. You don't have a team, but you need professional results. Storyteller gives you enterprise-grade automation without the enterprise complexity."
+
+Scene 6: "You're building a video feature into your product. You need to move fast, but you can't afford technical debt. Storyteller provides production-ready patterns from day one."
+
+Scene 7: "You create educational videos or courses. You need to produce content consistently while maintaining quality. Storyteller helps you scale production without sacrificing educational value."
+
+Scene 8: "You contribute to open-source projects or build tools for the community. You want to share your work and help others. Storyteller is open-source, so you can extend it and contribute back."
+
+Scene 9: "Whether you're processing ten videos or ten thousand, Storyteller scales with you. The same framework that works for one project handles enterprise-level production."
+
+Scene 10: "Join developers and creators building the future of video automation. Share patterns, improve parsers, and extend the framework. Together, we're making professional video production accessible to everyone."
+
+---
+
+## KEY AUDIENCES FOR STORYTELLER:
+- Content creators producing regular videos
+- Developers building video automation platforms
+- Marketing teams scaling content production
+- Agencies managing multiple client projects
+- Solo entrepreneurs building businesses
+- Tech startups adding video features
+- Educators creating courses
+- Open source contributors
+- Anyone scaling video production
+
+---
+
+Created: 2025-01-XX
+Style Reference: Dynamic explainer visual format
+Total Duration: 72 seconds (12 scenes × 6 seconds each)
+Narration: 60 seconds (Scenes 1-10), Opening & Closing silent (Scenes 0 & 11)
+Format: 9:16 VERTICAL - Full canvas coverage
+Audience: Developers, content creators, and teams building video automation
+

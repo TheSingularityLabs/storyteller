@@ -1,0 +1,291 @@
+# Storyteller: Video Script Framework - 12 SCENES
+Style: Dynamic explainer visual format - minimalist design, human-centered storytelling
+Total Duration: 72 seconds (6 seconds per scene)
+Format: 9:16 VERTICAL
+Audience: Developers and content creators building video automation tools
+
+---
+
+## SCENE 0: Opening Title (6 seconds) - NO NARRATION
+
+Layout Design:
+- Background: Pure white background with subtle gradient accent bottom
+- Text: "Storyteller" - Large, bold, modern sans-serif, top-left corner (safe zone)
+- Subtitle: "Video script framework" - Medium weight, left-aligned below title
+- Visual Elements:
+  - Minimalist document icon with play symbol overlay, bottom-right (asymmetric)
+  - Subtle code bracket accent, top-right corner
+- Aesthetic: Clean, professional, developer-focused
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Title and subtitle fade in from left. Document icon slides in from right. Code bracket pulses gently. Smooth, professional animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 1: The Challenge (6 seconds)
+
+Narration: "Creating explainer videos means manually parsing scripts, managing layouts, and orchestrating workflows. Hours of repetitive work for every video."
+
+Layout Design:
+- Background: Light gray gradient, slightly muted
+- Text: "Hours of Manual Work" - Large, left-aligned, top third (safe zone)
+- Visual Elements:
+  - Multiple document icons scattered chaotically (left side, overlapping)
+  - 2D flat silhouette figure at computer showing frustration (right side, bottom)
+  - Clock icon with many hours marked (top-right corner)
+  - Broken connection lines between elements
+- Aesthetic: Problem-focused, overwhelming, disconnected
+- Layout Pattern: Asymmetric right-heavy, left-aligned text
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Documents stack chaotically on left. Silhouette figure shows frustration gesture. Clock ticks rapidly. Connection lines break. Elements fade in sequentially. Smooth animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 2: The Old Way (6 seconds)
+
+Narration: "You'd write custom parsers for each script format, manually select layouts, and build workflow logic from scratch every time."
+
+Layout Design:
+- Background: White with subtle texture, cluttered feel
+- Text: "Building from Scratch" - Right-aligned, middle-right (safe zone)
+- Visual Elements:
+  - Multiple code file icons overlapping (left side, scattered)
+  - 2D flat silhouette developer figure with question mark (center-right)
+  - Arrow pointing from code to person showing confusion
+  - Red X marks on failed attempts (bottom-left)
+- Aesthetic: Overwhelming, repetitive, frustrating
+- Layout Pattern: Vertical split, right-heavy with scattered left elements
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Code files stack up on left. Developer silhouette shows confusion with question mark. Arrow animates from code to person. X marks appear. Elements fade in with staggered timing. Smooth, sequential animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 3: The Discovery (6 seconds)
+
+Narration: "What if a framework handled script parsing, layout selection, and workflow orchestration automatically? What if you could focus on content, not code?"
+
+Layout Design:
+- Background: Bright gradient, optimistic blue-to-green transition
+- Text: "Framework Solution" - Center-top (safe zone), large, bold
+- Visual Elements:
+  - Lightbulb icon with code brackets, top-left corner
+  - Central framework icon (geometric, modular design)
+  - Sparkle effects around framework icon
+  - Upward arrow suggesting progress (bottom-center)
+- Aesthetic: Hopeful, innovative, solution-focused
+- Layout Pattern: Hero-centered with corner accents
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Lightbulb glows in top-left. Framework icon materializes in center with sparkle effects. Arrow rises from bottom. Elements animate with smooth, optimistic motion. Sparkles pulse gently. Smooth animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 4: How It Works (6 seconds)
+
+Narration: "Write your script in a structured format. The framework parses scenes, selects layouts, and orchestrates your workflow automatically."
+
+Layout Design:
+- Background: Clean white with subtle grid pattern
+- Text: "Script → Video" - Horizontal flow, top-left to bottom-right diagonal (safe zones)
+- Visual Elements:
+  - Document icon with script symbol (top-left)
+  - Arrow flowing diagonally (center)
+  - Video icon with play symbol (bottom-right)
+  - Small processing icons (parser, layout, workflow) along arrow path
+- Aesthetic: Process-focused, clear flow, systematic
+- Layout Pattern: Diagonal cascade from top-left to bottom-right
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Document icon appears top-left. Arrow animates diagonally. Processing icons appear along arrow path sequentially. Video icon materializes bottom-right. Flow animates smoothly left-to-right, top-to-bottom. Smooth, sequential animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 5: Real Results (6 seconds)
+
+Narration: "Developers are using Storyteller to process hundreds of scenes, ensuring layout variety, and automating entire video pipelines."
+
+Layout Design:
+- Background: Success gradient, green-to-blue transition
+- Text: "Hundreds of Scenes" - Large, left-aligned, top third (safe zone)
+- Visual Elements:
+  - Multiple scene thumbnails in grid pattern (center, 3x2 grid)
+  - Checkmark icons appearing (right side)
+  - Progress bar showing completion (bottom, full-width banner)
+  - Number counter animating upward (top-right corner)
+- Aesthetic: Achievement, success, scale
+- Layout Pattern: Two-column with left metrics, right validation
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Scene thumbnails appear in grid sequentially. Checkmarks animate in on right. Progress bar fills from left to right. Counter increments upward. Elements animate with success-focused motion. Smooth, sequential animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 6: The Technology (6 seconds)
+
+Narration: "Intelligent layout selection with 100 unique patterns. Smart parsing that extracts scenes, narration, and prompts automatically."
+
+Layout Design:
+- Background: Tech-inspired gradient, purple-to-blue
+- Text: "100 Layout Patterns" - Top-left corner (safe zone), bold
+- Visual Elements:
+  - Pattern grid visualization (center, 4x4 grid showing variety)
+  - Parser icon with extraction arrows (left side)
+  - Neural network connection visualization (subtle, background)
+  - Number badge "100" (top-right corner)
+- Aesthetic: Technical, sophisticated, intelligent
+- Layout Pattern: Four-quadrant grid with corner text
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Pattern grid materializes in center showing variety. Parser icon pulses on left with extraction arrows. Neural network connections pulse subtly in background. Number badge appears top-right. Elements animate with technical precision. Smooth, intelligent animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 7: Easy to Use (6 seconds)
+
+Narration: "No complex setup. Just install, write your script, and run. The framework handles parsing, layout selection, and orchestration."
+
+Layout Design:
+- Background: Simple, clean white with minimal accent
+- Text: "Simple Setup" - Center-top (safe zone), friendly font, large
+- Visual Elements:
+  - 2D flat silhouette at computer typing (left side, bottom)
+  - Three-step process icons (1. Install, 2. Write, 3. Run) - horizontal flow center
+  - Checkmark progression (right side, vertical)
+- Aesthetic: Approachable, simple, accessible
+- Layout Pattern: L-shaped with horizontal process flow
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Silhouette types on left. Process icons appear sequentially in center (1, 2, 3). Checkmarks animate vertically on right. Flow moves left to right, then top to bottom. Smooth, approachable animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 8: Professional Quality (6 seconds)
+
+Narration: "Battle-tested error handling, progress tracking, and skip logic. Production-ready patterns that scale to any project size."
+
+Layout Design:
+- Background: Premium gradient, dark blue-to-purple
+- Text: "Production Ready" - Top-center (safe zone), premium typography, bold
+- Visual Elements:
+  - Quality badge with shield icon (top-right corner)
+  - Workflow diagram visualization (center, showing error handling paths)
+  - Star ratings (bottom-left corner)
+  - Scale indicator (bottom-right, showing growth)
+- Aesthetic: Premium, professional, reliable
+- Layout Pattern: Hero-centered with corner badges
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Badge appears top-right with shield. Workflow diagram animates in center showing error paths. Stars appear bottom-left. Scale indicator grows bottom-right. Elements animate with premium, professional motion. Smooth, polished animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 9: Open Source (6 seconds)
+
+Narration: "Join the open-source community. Contribute patterns, improve parsers, and build the future of video automation together."
+
+Layout Design:
+- Background: Community gradient, warm orange-to-pink
+- Text: "Open Source" - Large, center-top (safe zone), bold
+- Visual Elements:
+  - Multiple 2D flat silhouette developer icons (bottom, horizontal row)
+  - GitHub icon (top-left corner)
+  - Contribution arrows flowing upward (center)
+  - Community badge (top-right corner)
+- Aesthetic: Community, collaborative, growth
+- Layout Pattern: Radial expansion from center with bottom community
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Developer silhouettes appear in row at bottom. GitHub icon pulses top-left. Contribution arrows flow upward from community. Badge appears top-right. Elements animate with community-focused, collaborative motion. Smooth, warm animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 10: The Future (6 seconds)
+
+Narration: "This is just the beginning. The framework evolves with new patterns, integrations, and capabilities. Your video automation journey starts here."
+
+Layout Design:
+- Background: Future-focused gradient, horizon effect
+- Text: "Just Beginning" - Center-top (safe zone), forward-looking, bold
+- Visual Elements:
+  - Horizon line with rising elements (center, horizontal)
+  - Forward arrow (bottom-center, pointing right)
+  - Evolution indicator (top-right, showing progression)
+  - Framework icon with growth visualization (left side)
+- Aesthetic: Optimistic, forward-looking, progressive
+- Layout Pattern: Timeline journey from left to right
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Horizon expands horizontally in center. Framework icon grows on left. Forward arrow moves right from bottom-center. Evolution indicator progresses top-right. Elements animate with forward momentum. Smooth, progressive animation throughout 6 seconds. Auto-switch to next scene after 6 seconds."
+
+---
+
+## SCENE 11: Closing Title (6 seconds) - NO NARRATION
+
+Layout Design:
+- Background: Pure white matching opening
+- Text: "Get Started" - Large, left-aligned, top-left corner (safe zone), bold
+- Subtitle: "Build your video pipeline" - Left-aligned below title
+- Visual Elements:
+  - GitHub icon (top-right corner)
+  - Call-to-action button style element (bottom, full-width banner)
+  - Subtle code accent (bottom-right corner)
+- Aesthetic: Clean, action-oriented, developer-focused
+
+Animation Prompt for AI Video Model:
+"9:16 vertical format. Title and subtitle fade in from left. GitHub icon appears top-right. Button element pulses gently at bottom. Code accent appears bottom-right. Smooth, professional fade-in animation throughout 6 seconds. Auto-switch to end after 6 seconds."
+
+---
+
+## TECHNICAL SPECIFICATIONS:
+- Aspect Ratio: 9:16 (1080x1920) - VERTICAL FORMAT
+- Color Palette: White backgrounds, gradient accents (blue, green, purple, orange), developer-focused colors
+- Typography: Modern sans-serif, bold headlines, readable body text, left-aligned in safe zones
+- Animation Style: Smooth transitions, sequential reveals, subtle motion, professional pacing
+- Total Duration: 72 seconds (12 scenes × 6 seconds each)
+- Narration: 60 seconds (Scenes 1-10 only)
+
+---
+
+## NARRATION SCRIPT:
+(Note: Scenes 0 and 11 have NO narration)
+
+Scene 1: "Creating explainer videos means manually parsing scripts, managing layouts, and orchestrating workflows. Hours of repetitive work for every video."
+
+Scene 2: "You'd write custom parsers for each script format, manually select layouts, and build workflow logic from scratch every time."
+
+Scene 3: "What if a framework handled script parsing, layout selection, and workflow orchestration automatically? What if you could focus on content, not code?"
+
+Scene 4: "Write your script in a structured format. The framework parses scenes, selects layouts, and orchestrates your workflow automatically."
+
+Scene 5: "Developers are using Storyteller to process hundreds of scenes, ensuring layout variety, and automating entire video pipelines."
+
+Scene 6: "Intelligent layout selection with 100 unique patterns. Smart parsing that extracts scenes, narration, and prompts automatically."
+
+Scene 7: "No complex setup. Just install, write your script, and run. The framework handles parsing, layout selection, and orchestration."
+
+Scene 8: "Battle-tested error handling, progress tracking, and skip logic. Production-ready patterns that scale to any project size."
+
+Scene 9: "Join the open-source community. Contribute patterns, improve parsers, and build the future of video automation together."
+
+Scene 10: "This is just the beginning. The framework evolves with new patterns, integrations, and capabilities. Your video automation journey starts here."
+
+---
+
+## KEY STORYTELLER FRAMEWORK HIGHLIGHTS:
+- Automated script parsing and scene extraction
+- 100 unique layout patterns with intelligent selection
+- Workflow orchestration with error handling
+- Provider-agnostic design (plug in any APIs)
+- Open-source and community-driven
+- Production-ready patterns and best practices
+
+---
+
+Created: 2025-01-XX
+Style Reference: Dynamic explainer visual format
+Total Duration: 72 seconds (12 scenes × 6 seconds each)
+Narration: 60 seconds (Scenes 1-10), Opening & Closing silent (Scenes 0 & 11)
+Format: 9:16 VERTICAL - Full canvas coverage
+Audience: Developers and content creators building video automation tools
