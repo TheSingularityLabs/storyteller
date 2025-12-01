@@ -1,6 +1,6 @@
 # Storyteller - Open Source Framework
 
-A Python codebase for parsing and processing explainer video scripts. Provides utilities for extracting scene data, managing layout patterns, and orchestrating video creation workflows.
+A Python framework for parsing explainer video scripts, managing layout patterns, and orchestrating video creation workflows. Provides utilities for extracting scene data, intelligent layout selection (100 unique patterns), and production-ready batch processing.
 
 ## 🎯 What's Included
 
