@@ -18,7 +18,7 @@ Example:
 import time
 from pathlib import Path
 from typing import Callable, List, Optional, Dict, Any
-from prompt_parser import parse_explainer_file, SceneData, get_scene_output_dir
+from scripts.prompt_parser import parse_explainer_file, SceneData, get_scene_output_dir
 
 
 def check_output_exists(output_dir: Path, filename: str = "final.png") -> bool:
