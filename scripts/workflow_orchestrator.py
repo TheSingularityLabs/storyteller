@@ -16,17 +16,9 @@ Example:
     )
 """
 import time
-import sys
 from pathlib import Path
 from typing import Callable, List, Optional, Dict, Any
-
-# Handle imports for both package and direct execution
-try:
-    from scripts.prompt_parser import parse_explainer_file, SceneData, get_scene_output_dir
-except ImportError:
-    # Fallback for direct execution
-    sys.path.insert(0, str(Path(__file__).parent.parent))
-    from scripts.prompt_parser import parse_explainer_file, SceneData, get_scene_output_dir
+from scripts.prompt_parser import parse_explainer_file, SceneData, get_scene_output_dir
 
 
 def check_output_exists(output_dir: Path, filename: str = "final.png") -> bool:
