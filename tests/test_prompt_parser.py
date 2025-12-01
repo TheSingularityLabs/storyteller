@@ -24,11 +24,16 @@ Style: Dynamic explainer visual format
 Total Duration: 72 seconds
 Format: 9:16 VERTICAL
 
+---
+
 ## SCENE 0: Opening Title (6 seconds) - NO NARRATION
 
 Layout Design:
 - Background: Pure white background
 - Text: "Test Title" - Large, bold
+
+Image Generation Prompts (2-Step Workflow):
+Initial: "9:16 vertical format. Fade in title."
 
 Animation Prompt for AI Video Model:
 "9:16 vertical format. Fade in title."
@@ -43,6 +48,9 @@ Layout Design:
 - Background: Light gray
 - Text: "First Scene" - Large
 
+Image Generation Prompts (2-Step Workflow):
+Initial: "9:16 vertical format. Scene animates."
+
 Animation Prompt for AI Video Model:
 "9:16 vertical format. Scene animates."
 
@@ -54,12 +62,12 @@ Scene 1: "This is the first scene narration."
 """
 
 
-def test_parse_explainer_file_basic(sample_explainer_path):
+def test_parse_explainer_file_basic(sample_explainer_content, tmp_path):
     """Test basic parsing of explainer file"""
-    if not sample_explainer_path.exists():
-        pytest.skip(f"Sample file not found: {sample_explainer_path}")
+    test_file = tmp_path / "test_explainer.txt"
+    test_file.write_text(sample_explainer_content)
     
-    result = parse_explainer_file(sample_explainer_path)
+    result = parse_explainer_file(test_file)
     
     assert 'title' in result
     assert 'scenes' in result
@@ -81,15 +89,15 @@ def test_parse_explainer_file_title_extraction(sample_explainer_path):
     assert len(result['title']) > 0
 
 
-def test_parse_explainer_file_scene_count(sample_explainer_path):
+def test_parse_explainer_file_scene_count(sample_explainer_content, tmp_path):
     """Test that all scenes are parsed"""
-    if not sample_explainer_path.exists():
-        pytest.skip(f"Sample file not found: {sample_explainer_path}")
+    test_file = tmp_path / "test_explainer.txt"
+    test_file.write_text(sample_explainer_content)
     
-    result = parse_explainer_file(sample_explainer_path)
+    result = parse_explainer_file(test_file)
     
-    # Should have 12 scenes (0-11)
-    assert len(result['scenes']) == 12
+    # Should have 2 scenes (0 and 1 from fixture)
+    assert len(result['scenes']) == 2
 
 
 def test_parse_explainer_file_scene_data_structure(sample_explainer_path):

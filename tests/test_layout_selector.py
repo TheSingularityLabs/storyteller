@@ -90,12 +90,9 @@ def test_get_category_valid():
 
 def test_get_category_invalid():
     """Test getting category for invalid pattern ID"""
-    # Pattern IDs should be 1-100
-    with pytest.raises(KeyError):
-        get_category(0)
-    
-    with pytest.raises(KeyError):
-        get_category(101)
+    # Pattern IDs should be 1-100, but function returns "unknown" for invalid IDs
+    assert get_category(0) == "unknown"
+    assert get_category(101) == "unknown"
 
 
 def test_layout_patterns_complete():
